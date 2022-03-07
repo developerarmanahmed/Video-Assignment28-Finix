@@ -1,0 +1,89 @@
+@media (max-width:1199px) {
+    .carousel-indicators {
+        margin-left: 45px;
+    }
+    .stepssteps-head h3 {
+        font-size: 27px;
+    }
+    .contack-form h3 {
+        font-size: 30px;
+        margin-top: 0;
+        margin-bottom: 20px;
+    }
+    .experience-banner span {
+        right: 108px;
+        bottom: 20px;
+    
+    }
+    .about-shop {
+        bottom: -82px;
+    }
+    .about-content h3 {
+        font-size: 30px;
+    }
+    .about-shop {
+        bottom: -35px;
+    }
+    .about-shop {
+        background: url(https://i.ibb.co/jLNxYYx/shape.png);
+        background-repeat: no-repeat;
+        width: 200px;
+        height: 200px;
+        background-size: contain;
+        background-position: center center;
+        position: absolute;
+        right: 0;
+    }
+  
+}
+@media (max-width:991px) {
+    .data-start {
+        margin-top: 30px;
+        padding-bottom: 30px;
+    }
+    .about-shop {
+        width: 200px;
+        height: 200px;
+        bottom: 0;
+        right: 145px;
+    }
+    .about-banner {
+        margin-bottom: 30px;
+    }
+    .experience-banner span {
+        right: 280px;
+        bottom: 50px;
+    }
+    .experience-section {
+        background-color: #f9fafb;
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+}
+@media (max-width:767px) {
+    .about-shop {
+        width: 200px;
+        height: 200px;
+        bottom: 0;
+        right: -15px;
+    }
+    .experience-banner span {
+        right: 135px;
+        bottom: 35px;
+    }
+}
+@media (max-width:600px) {
+    .about-content h3 {
+        font-size: 23px;
+    }
+    .about-section {
+        margin: 50px 0;
+    }
+    
+}
+@media (max-width:550px) {
+    .experience-banner span {
+        right: 135px;
+        bottom: 35px;
+    }
+}
